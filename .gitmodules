@@ -1,0 +1,6 @@
+[submodule "TestCocoaPods"]
+	path = TestCocoaPods
+	url = https://github.com/lishiyong-github/TestCocoaPods.git
+[submodule "LSYShowController"]
+	path = LSYShowController
+	url = https://github.com/lishiyong-github/LSYShowController.git
